@@ -1,5 +1,3 @@
-package cn.kirito;
-
 /**
  * Hello world!
  *

@@ -16,6 +16,8 @@ public class Move implements Serializable {
         this.col = col;
     }
 
-
-
+    @Override
+    public String toString() {
+        return String.format("[%d.%d]",row,col);
+    }
 }
