@@ -1,8 +1,8 @@
-package players.human;
+package entity.human;
 
 import core.GameInfo;
 import core.Move;
-import players.Player;
+import entity.Player;
 
 public class HumanPlayer extends Player {
     private Move move;
